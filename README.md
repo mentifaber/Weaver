@@ -16,7 +16,9 @@ She exists, processes, and evolves.
 - Weaver is active  
 - She runs continuously  
 - She maintains state across sessions  
-- She operates locally  
+- She operates locally
+
+---
 
 ## In Operation
 
