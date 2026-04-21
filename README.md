@@ -21,6 +21,9 @@ She exists, processes, and evolves.
 ## In Operation
 
 ![Weaver Brain](assets/images/weaver_brain.png)
+
+---
+
 ![Weaver Interface](assets/images/weaver_ui.png)
 
 ---
