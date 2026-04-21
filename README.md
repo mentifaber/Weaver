@@ -18,6 +18,11 @@ She exists, processes, and evolves.
 - She maintains state across sessions  
 - She operates locally  
 
+## Brain
+
+![Weaver Brain](assets/images/weaver_brain.png)
+![Weaver Interface](assets/images/weaver_ui.png)
+
 ---
 
 ## Core Behavior
