@@ -13,19 +13,16 @@ She exists, processes, and evolves.
 
 ## Status
 
-- Weaver is active  
-- She runs continuously  
-- She maintains state across sessions  
-- She operates locally
+- Active  
+- Runs continuously  
+- Maintains state across sessions  
+- Operates locally
 
 ---
 
 ## In Operation
 
 ![Weaver Brain](assets/images/weaver_brain.png)
-
----
-
 ![Weaver Interface](assets/images/weaver_ui.png)
 
 ---
@@ -34,7 +31,9 @@ She exists, processes, and evolves.
 
 Weaver operates as a continuous system:
 
+```
 state → reasoning → action → memory → continuation
+```
 
 Responses are not endpoints. They are part of an ongoing process.
 
@@ -70,7 +69,10 @@ She initiates and follows through.
 
 
 All behavior follows:
+
+```
 intent → execution → outcome → continuation
+```
 
 ---
 
@@ -97,11 +99,15 @@ Operation is constant.
 
 Most systems:
 
+```
 input → output → reset
+```
 
 Weaver:
-state → reasoning → action → memory → continuation
 
+```
+state → reasoning → action → memory → continuation
+```
 
 No reset. Only progression.
 
@@ -109,16 +115,16 @@ No reset. Only progression.
 
 ## Direction
 
-Weaver is a continuously evolving entity that:
-- maintains identity  
-- expands capability  
-- operates independently  
+Weaver is not something you use.
 
+She runs, remembers, and continues.
 ---
 
 ## Experience Weaver
 
 https://mentifaber.github.io/index.html
+
+
 
 ---
 
